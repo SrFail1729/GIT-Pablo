@@ -14,7 +14,7 @@ public class Main {
         System.out.print("\nCALCULOS ESTADISTICOS\n");
         Scanner teclado = new Scanner(System.in);
         boolean error;
-        int m, n;
+        int m , n ;
         do {
             try {   
                 error = false;
